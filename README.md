@@ -25,3 +25,6 @@ problems/
 | # | Problema | Tema             | Dificultad | Solución                                |
 | - | -------- | ---------------- | ---------- | --------------------------------------- |
 | 1 | Two Sum  | Arrays, Hash Map | Easy       | `problems/01_arrays_hashing/two_sum.py` |
+| 2 | Add Two Numbers | Linked List, Math | Medium | `problems/02_linked_lists/add_two_numbers.py` |
+
+
